@@ -1,0 +1,67 @@
+{
+  "Users": [
+    {
+      "id": 1,
+      "username": "wasinee",
+      "password": "1324"
+    }
+  ],
+  "product": [
+    {
+      "id": "1",
+      "name": "Shirt",
+      "price": 54,
+      "description": "black shirt with Blackpool facemask",
+      "color": "black",
+      "imageUrl": "https://imgur.com/0GFoPel.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Egyptain dess",
+      "price": 150,
+      "description": "45000 year old Egyptain dess",
+      "color": "green, brown",
+      "imageUrl": "https://imgur.com/5GQjHNW.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Bag",
+      "price": 50,
+      "description": "leather bag small easy to bring around",
+      "color": "black, brown",
+      "imageUrl": "https://I.imgur.com/7Kp5LKS.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Winter Jacket",
+      "price": 160,
+      "description": "a black winter jacket with a glasses",
+      "color": "black",
+      "imageUrl": "https://imgur.com/an3Yj.jpg"
+    },
+    {
+      "id": "5",
+      "name": "Color Print Long Skirt",
+      "price": 23,
+      "description": "a long white color print skirt",
+      "color": "white with raindow print",
+      "imageUrl": "https://imgur.com/h7RsNqP.jpg"
+    },
+    {
+      "id": "6",
+      "name": "Sweater",
+      "price": 22,
+      "description": "a black sweater with Drake dancing in the middle",
+      "color": "black",
+      "imageUrl": "https://i.imgur.com/khELnoK.jpeg"
+    },
+    {
+      "id": "7",
+      "name": "TShirt",
+      "price": 100,
+      "description": "blue",
+      "color": "white",
+      "imageUrl": "https://i.imgur.com/bY2xjvA.jpeg"
+    }
+  ]
+}
